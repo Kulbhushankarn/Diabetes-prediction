@@ -1,6 +1,10 @@
 # Diabetes-prediction
 This project is based on  Machine Learning.
+
+
 Preview Of project
+
+
 <img width="960" alt="Screenshot 2021-10-09 012206" src="https://user-images.githubusercontent.com/67707132/136618754-e7a867fd-7fc1-49f4-8ba9-34e30d958f68.png">
 <img width="960" alt="Screenshot 2021-10-09 012328" src="https://user-images.githubusercontent.com/67707132/136618789-99b94d04-a97f-418f-9c62-768502215560.png">
 <img width="960" alt="Screenshot 2021-10-09 012615" src="https://user-images.githubusercontent.com/67707132/136618798-55c93ff0-6795-4c30-9d0a-b759f3048545.png">
